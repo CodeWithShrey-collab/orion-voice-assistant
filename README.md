@@ -97,6 +97,7 @@ qwen2.5:7b
 
 ## 4️⃣ Clone the Repository
 git clone https://github.com/CodeWithShrey-collab/orion-voice-assistant.git
+
 cd orion-voice-assistant
 
 ## 5️⃣ Create Virtual Environment
@@ -194,3 +195,4 @@ Then speak your command.
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
